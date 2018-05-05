@@ -1,0 +1,15 @@
+/*
+ * style.css
+ * Copyright (C) 2018 Toran Sahu
+ *
+ * Distributed under terms of the Copyright (C) 2018 Ethereal Machines Pvt. Ltd. All rights reserved license.
+ */
+
+body {
+	background: white;
+	color: black;
+}
+
+.table-body {
+	  text-align: left;
+  }
